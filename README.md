@@ -26,3 +26,4 @@ rosrun radar_gather radar_gather_node
 
 #### TODO
 - [ ] topic names into extra configure file for convenience
+- [ ] issue of zero intensity (maybe this should be handled in previous driver level....)
